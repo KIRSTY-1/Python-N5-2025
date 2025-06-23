@@ -6,4 +6,3 @@ while len(password) < 8:
 print("Password accepted.")
 
 # it will print an error message
-#
